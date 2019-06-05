@@ -1,11 +1,11 @@
 # Site settings
 author: kevin lang
-title: 
+title: my first blog
 header-img: img/home-bg.png
 email: langkevina@gmail.com
 copyright_name: kevin lang
 description: > # this means to ignore newlines until "baseurl:"
-  
+  blog number 1
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  LangKevin
